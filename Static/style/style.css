@@ -1,0 +1,35 @@
+body {
+    background-image: url(/static/img.png);
+    color: #f5f5f5;
+    width: 100%;
+    
+
+    
+}
+h1{
+    text-align: center;
+}
+
+
+.content{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+  
+    background-color: black;
+    font-size:25px;
+    border: 2px #f5f5f5 solid;
+    border-radius: 10px;
+    
+    
+    height: 300px;
+   
+   
+
+}
+input{
+
+    width: 30%;
+    height: 30px;
+    border: none;
+}
